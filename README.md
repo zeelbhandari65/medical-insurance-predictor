@@ -6,7 +6,7 @@ This is a **Streamlit web application** that predicts **medical insurance charge
 
 ## 🚀 Live App
 
-https://medical-insurance-predictor-8hkbm2i3hiewd7dqshpsql.streamlit.app/
+https://medical-insurance-predictor-musv8oduqfaf8e32qeear7.streamlit.app/
 
 
 
